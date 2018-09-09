@@ -1,0 +1,21 @@
+Machine Learning
+	Pengertian dari Machine Learning adalah sebuah studi untuk  memberikan kemampuan kepada komputer agar mampu belajar  tanpa diprogam secara kompleks.
+
+Aplikasi dari Machine Learning :
+	recognition : face, object, speech, gait, handwritten 
+	detection, identification : object, fraud (credit card), spam email, disease
+	recommender problems : the most liked movies, products, and etc
+	prediction : stock prices, housing
+
+Linear Regression 
+	Pengertiannya adalah  suatu model yang mengasumsikan relasi antara input variabel (x) dan output variabel (y) adalah linear
+	f: R -> R     f(x;w) = w0 + w1x
+		     = a + b(x)
+		     = intercept + koefisien(x)
+		ex   = 2 + 5(x)
+
+	f: R -> Rd f(x;w) = w0 + w1x1 + .... + wdxd
+
+Multivariate Linear Regression
+	Pengertiannya adalah  model yang akan dibentuk berdasarkan beberapa fitur atau atribut f(x;w) = w0 + w1x1 + .... + wdxd
+	Loss function adalah simpangan error, semakin kecil nilainya maka semakin baik.
