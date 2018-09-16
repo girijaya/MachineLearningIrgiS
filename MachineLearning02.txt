@@ -1,0 +1,13 @@
+Peberdaan dari Supervised dan Unsupervised adalah Supervised ada data dan targetnya sedangkan Unspervised tidak ada dan targetnya dengan kata lain disuruh belajar sendiri.
+Semua konsep dari Supervised dan Unsupervised terbagi 2, pertama training dulu,kedua testing
+Liner Regression terbagi 2 yaiti Unvarian dan Multivarian
+	Univarian hanya satu fitur dan multivarian banyak fitur
+	Univarian-> y= w0+w1x
+	Multivarian -> y=w0+w1x1+...+wdxd
+ada 2 jenis Learning Read yaitu Stokastik and Batch?
+Stokastik setiap menghitung data dilakukan update bobot sedangnkan Bacth setiap menghitung data hanya dilakukan satu bobot yang sama
+Rumuas  learning read
+stocastic gradient descent
+wj=wj-error(f(x)i-y(i).xj
+
+Polinomial perbedaanya adalah garis pemisahnya polimonial, biasnya rumus dari regresi polinomial sama saja dengan regresi linear namu ditambahin kuadartnya
